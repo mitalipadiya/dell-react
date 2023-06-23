@@ -1,0 +1,13 @@
+ tr, th, td {
+    border: 1px solid #000;
+}
+td, th {
+    height: 30px;
+}
+th{
+    background: #c3c5e0;
+    cursor: pointer;
+}
+.table {
+    width: 100%;
+}

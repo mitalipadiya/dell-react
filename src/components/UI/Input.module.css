@@ -1,0 +1,6 @@
+.input_div {
+    display: flex;
+    gap: 20px;
+    height: 24px;
+    align-items: center;
+}
